@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Patrick Hand', cursive;
+}
+
+body {
+    width: 100%;
+}
+
+html {
+    width: 100%;
+}
